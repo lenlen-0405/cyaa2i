@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>cyaa2iプロフィール</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body style="background-color:black;">
+  <body text="#99ffff">
+  <basefont face="cursive">
+      <p>＠cyaa2i</p>
+      <p>⌬ フォロー　⌬ フォロワー</p>
+      <hr style="border:0;border-top:1px dashed #808080">
+      <p>⌬ cyaa2i</p>
+      <p>&#x1fa75 &#x1f4ac</p >
+      <p>⌬ いいね！：len__sCrmc、他<br>
+      cyaa2i 閲覧ありがとうございますෆ˚*<br>
+      こちらのリンクで簡単な自己紹介をさせていただいております。お時間ある際に読んでいただければ幸いです‪(՞ .  ̫ .՞)" <br>
+      素敵なご縁がありますように🍀*゜</p>
+      <p>⌬ <font color="#808080" size=2>コメントを追加…</font><br>
+      <font color="#808080" size=1>1月3日</font></p>
+            <hr style="border:0;border-top:2px dashed #808080">
+      <p style="text-align:center"><font size="2"><a href="cyaa2ip1.html"style="text-decoration:none;color:#808080">Home</a>　<a href="cyaa2ip2.html"style="text-decoration:none;color:#808080">About me</a>　<a href="cyaa2ip3.html"style="text-decoration:none;color:#808080">Like</a>　<a href="cyaa2ip4.html"style="text-decoration:none;color:#808080">Attention</a>　<a href="https://x.com/cyaa2i"style="text-decoration:none;color:#808080">୨୧</a></p>
+  </body>
+</html>

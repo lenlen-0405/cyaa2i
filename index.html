@@ -10,8 +10,12 @@
     <script type="text/javascript">
       function gate() {
         var UserInput = prompt("password:","");
-        window.alert(UserInput)
-        location.href="cyaa2ip1.html";
+        if (UserInput == 'cyaa2i'){
+          location.href = "cyaa2ip1.html"
+        }
+        else{
+          location.href = "index.html"
+        }
       }
     </script>
   <body style="background-color:black;">

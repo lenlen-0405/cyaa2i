@@ -4,6 +4,10 @@ url('https://fonts.googleapis.com/css2?family=Caveat&display=swap')
 body{
 	font-family:'Caveat';
 }
+  .cp_iptext{position: relative;
+	width: 80%;
+	margin: 40px 3%;
+}
 .cp_iptxt input[type='password'] {
 	font: 15px/24px sans-serif;
 	box-sizing: border-box;
